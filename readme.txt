@@ -1,0 +1,4 @@
+Sentiment Analysis
+
+The process of computationally identifying and categorizing opinions expressed in a piece of text, especially in order to determine whether the writer's attitude towards a particular topic, product, etc. is positive, negative, or neutral.The Sentiment Analysis is done using a Recurrent Neural Network called LSTM (Long Short Term Memory). Unlike standard feedforward neural networks, LSTM has feedback connections that make it a "general purpose computer" (that is, it can compute anything that a Turing machine can).It can not only process single data points (such as images), but also entire sequences of data (such as speech or video). For example, LSTM is applicable to tasks such as unsegmented, connected handwriting recognition or speech recognition. 
+![LSTM](https://cdn-images-1.medium.com/max/1600/0*LyfY3Mow9eCYlj7o.)
